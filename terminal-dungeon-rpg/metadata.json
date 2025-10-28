@@ -1,0 +1,5 @@
+{
+  "name": "Terminal Dungeon RPG",
+  "description": "A single-file, React-based rogue-like RPG powered by Gemini for dynamic descriptions. Delve into endless corridors, fight monsters, collect loot, and climb the leaderboards.",
+  "requestFramePermissions": []
+}
